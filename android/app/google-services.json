@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "340091025127",
+    "project_id": "niovar",
+    "storage_bucket": "niovar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340091025127:android:a3afd37284ecf90c98d442",
+        "android_client_info": {
+          "package_name": "com.niovar.niovar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340091025127-vifhd3tkjbjchqg57aomilvsckob473i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT319xwVkStcyIWjWvTxJv7TS7kRljt-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340091025127-vifhd3tkjbjchqg57aomilvsckob473i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "340091025127-r7ul6is65i92vu9hth2hu3v965d1g2nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.niovar.niovarapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
